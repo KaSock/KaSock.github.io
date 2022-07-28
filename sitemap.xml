@@ -56,21 +56,7 @@
 
   
   <url>
-    <loc>http://kasock.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2022-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://kasock.github.io/tags/%E7%A0%B4%E8%A7%A3/</loc>
-    <lastmod>2022-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://kasock.github.io/tags/C/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -83,14 +69,21 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://kasock.github.io/categories/%E6%96%87%E7%AB%A0/</loc>
+    <loc>http://kasock.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+  <url>
+    <loc>http://kasock.github.io/tags/C/</loc>
+    <lastmod>2022-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
   
   <url>
     <loc>http://kasock.github.io/categories/%E6%89%8B%E6%9C%BA%E8%BD%AF%E4%BB%B6/</loc>
@@ -101,6 +94,13 @@
   
   <url>
     <loc>http://kasock.github.io/categories/Unity/</loc>
+    <lastmod>2022-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kasock.github.io/categories/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
